@@ -1,6 +1,12 @@
 # OSA-Ghast-Mk2
 Latest variant of the Ghast, now with 20 missiles for bombardment.
 
+Since its release the ghast has been used as my test bed for missile and torp testing before commiting to a specific new design.
+
+When the 5 pod launcher was finaly added, they easily attatched to the ghast, and was very reliable (for missiles anyway).
+
+The default scout varient has also been updated with some of the new additions made on the launcher varient.
+
 //Specs//
 
 Comes unarmed for scouting or with 20 missiles for bombardment.
@@ -27,16 +33,6 @@ Basic script for current Fuel/Prop times.
 
 Uses basic FCU, roll is performed using Roll_Left and Roll_Right buttons, this is to allow fast handling by isolating the roll thrusters from the FCU/MFC.
 
-
-
 //Tactics//
 
-This ship is designed to be a small, hard to spot scout ship with enough range to be used offensively and defensively.
 
-Offensively this ship can be used to follow targets of importance, either to lead other combat ships to the target, or to make a boarding action at the right moment.
-
-You have unimpeded FOV to fire handheld weapons from the pilot seat, making this a perfect disposible to travel to infantry fights.
-
-Defensively this ship allows scouting of dangerous situations, and can be used to travel to key locations without being followed yourself.
-
-Did i mention this ship is cheaper than dirt, new player friendly, almost all T1, making it great for emergency ship recovery (just ditch it, it costs nothing).
