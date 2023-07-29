@@ -1,11 +1,10 @@
-# OSA-Ghast-Mk2
 Latest variant of the Ghast, now with 20 missiles for bombardment.
 
-Since its release the ghast has been used as my test bed for missile and torp testing before commiting to a specific new design.
+Since its release the Ghast has been used as my test bed for missile and torp testing before committing to a specific new design.
 
-When the 5 pod launcher was finaly added, they easily attatched to the Ghast, and was very reliable (for missiles anyway).
+When the 5 pod launcher was finally added, they easily attached to the Ghast, and was very reliable (for missiles anyway).
 
-The default scout varient has also been updated with some of the new additions made on the launcher varient.
+The default scout variant has also been updated with some of the new additions made on the launcher variant.
 
 //Specs//
 
@@ -21,7 +20,7 @@ AimMax+ and AimMin+ is your Boost hotkey, Bind both to the same hotkey, this wil
 
 Ship is set to both fly and aim at a smooth sensitivity (tune to your taste), Aim keybind lowers the limits for sniping, Boost keybind removes these limits allowing for faster pitch/yaw.
 
-150 m/s max speed using T2 maneuver thrusters, no trails.
+150 m/s max speed using T2 manoeuvre thrusters, no trails.
 
 104255.96 kg in weight without missiles, 131225.469 kg armed with missiles.
 
@@ -37,17 +36,16 @@ Uses basic FCU, roll is performed using Roll_Left and Roll_Right buttons, this i
 
 Despite the very hindersome bugs launchers and their munitions have, the 5 pod launcher is surprisingly reliable.
 
-Reliable enouth for them to be mounted onto the cheap, fast and stealthy hull of the Ghast, making it a fun and easy way to deploy the max amount of missiles onto a target.
+Reliable enough for them to be mounted onto the cheap, fast and stealthy hull of the Ghast, making it a fun and easy way to deploy the max amount of missiles onto a target.
 
-Unfortunately all missiles/torps have a chance of failure on launch due to bugs, and the ordanince itself is well known to fail at hitting moving targets, limiting there use.
+Unfortunately all missiles/torps have a chance of failure on launch due to bugs, and the ordinance itself is well known to fail at hitting moving targets, limiting there use.
 
-Where i personaly see use, even if bugs are fixed, is in station bombardement and breaching.
+Where I personally see use, even if bugs are fixed, is in station bombardment and breaching.
 
-Small or large bombers may be a key aspect to siege warfare, and thus i belive small, cheap and stealthy bombers will be very valuable in the possible future.
+Small or large bombers may be a key aspect to siege warfare, and thus I believe small, cheap and stealthy bombers will be very valuable in the possible future.
 
-The Ghast has excelent range for a trailless ship, and can carry all its missiles at max speed.
+The Ghast has excellent range for a tailless ship, and can carry all its missiles at max speed.
 
-Low tech components keep the pottentialy one way mission more cost effective, missiles are only cheap to a point.
+Low tech components keep the potentially one way mission more cost effective, missiles are only cheap to a point.
 
 Could possibly be used to ambush stationary ships, like surface miners.
-
