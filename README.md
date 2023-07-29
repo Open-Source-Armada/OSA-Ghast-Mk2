@@ -3,7 +3,17 @@ Latest variant of the Ghast, now with 20 missiles for bombardment.
 
 //Specs//
 
+Comes unarmed for scouting or with 20 missiles for bombardment.
+
 LaunchMissile+ and LaunchTube+ are your missile triggers, bind both to the same key, this system uses no yolo and is a simple way to cycle and launch missile tubes.
+
+CenterSensePlus and CenterSenseMinus is your standard sensitivity, Adjust both to your preferred flying sensitivity.
+
+AimMax- and AimMin- is your Aim hotkey, Bind both to the same keybind, this will lower your sensitivity, Adjust MinSensePlus and MinSenseMinus to change Aim sensitivity.
+
+AimMax+ and AimMin+ is your Boost hotkey, Bind both to the same hotkey, this will raise your sensitivity, Adjust MaxSensePlus and MaxSenseMinus to change Boost sensitivity.
+
+Ship is set to both fly and aim at a smooth sensitivity (tune to your taste), Aim keybind lowers the limits for sniping, Boost keybind removes these limits allowing for faster pitch/yaw.
 
 150 m/s max speed using T2 maneuver thrusters, no trails.
 
