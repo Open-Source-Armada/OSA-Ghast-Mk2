@@ -35,4 +35,19 @@ Uses basic FCU, roll is performed using Roll_Left and Roll_Right buttons, this i
 
 //Tactics//
 
+Despite the very hindersome bugs launchers and their munitions have, the 5 pod launcher is surprisingly reliable.
+
+Reliable enouth for them to be mounted onto the cheap, fast and stealthy hull of the Ghast, making it a fun and easy way to deploy the max amount of missiles onto a target.
+
+Unfortunately all missiles/torps have a chance of failure on launch due to bugs, and the ordanince itself is well known to fail at hitting moving targets, limiting there use.
+
+Where i personaly see use, even if bugs are fixed, is in station bombardement and breaching.
+
+Small or large bombers may be a key aspect to siege warfare, and thus i belive small, cheap and stealthy bombers will be very valuable in the possible future.
+
+The Ghast has excelent range for a trailless ship, and can carry all its missiles at max speed.
+
+Low tech components keep the pottentialy one way mission more cost effective, missiles are only cheap to a point.
+
+Could possibly be used to ambush stationary ships, like surface miners.
 
