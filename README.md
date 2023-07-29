@@ -3,6 +3,8 @@ Latest variant of the Ghast, now with 20 missiles for bombardment.
 
 //Specs//
 
+LaunchMissile+ and LaunchTube+ are your missile triggers, bind both to the same key, this system uses no yolo and is a simple way to cycle and launch missile tubes.
+
 150 m/s max speed using T2 maneuver thrusters, no trails.
 
 104255.96 kg in weight without missiles, 131225.469 kg armed with missiles.
