@@ -3,7 +3,7 @@ Latest variant of the Ghast, now with 20 missiles for bombardment.
 
 Since its release the ghast has been used as my test bed for missile and torp testing before commiting to a specific new design.
 
-When the 5 pod launcher was finaly added, they easily attatched to the ghast, and was very reliable (for missiles anyway).
+When the 5 pod launcher was finaly added, they easily attatched to the Ghast, and was very reliable (for missiles anyway).
 
 The default scout varient has also been updated with some of the new additions made on the launcher varient.
 
