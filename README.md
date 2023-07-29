@@ -1,10 +1,11 @@
 # OSA-Ghast-Mk2
 Latest variant of the Ghast, now with 20 missiles for bombardment.
+
 //Specs//
 
 150 m/s max speed using T2 maneuver thrusters, no trails.
 
-98229.9453 kg in weight.
+104255.96 kg in weight without missiles, 131225.469 kg armed with missiles.
 
 Two small prop tanks for 2 million prop, 1 hours 10 mins estimated flight time.
 
